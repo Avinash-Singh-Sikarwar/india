@@ -2,3 +2,5 @@ This is mmy first file on GitHub repository . Here I am just learning how to use
 I have just created a text file for demo, I can use java file, python file and much more.
 
 Now I am adding more details here by edit option. My name is Avinash Singh.
+
+COllege - Central University of South Bihar.
