@@ -1,0 +1,2 @@
+This is mmy first file on GitHub repository . Here I am just learning how to use GitHub.
+I have just created a text file for demo, I can use java file, python file and much more.
